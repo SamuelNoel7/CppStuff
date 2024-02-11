@@ -16,7 +16,7 @@ public:
 		return dq.isEmpty();
 	}
 	int size() {
-		return dq.get_size();
+		return dq.size();
 	}
 	void pop() {
 		dq.popFront();

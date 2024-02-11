@@ -1,2 +1,3 @@
 ﻿  deque.cpp
+D:\Web Development\Deque\deque.h(139): warning C4715: 'deque<int>::getFront': not all control paths return a value
   Deque.vcxproj -> D:\Web Development\Deque\x64\Debug\Deque.exe
